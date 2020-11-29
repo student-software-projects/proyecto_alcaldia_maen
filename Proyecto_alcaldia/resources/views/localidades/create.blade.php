@@ -16,7 +16,7 @@
                @csrf
                <div class="form-group mt-4">
                    <label for="name">Nombre de la localidad</label>
-                   <input name="name" id="name" type="text" class="form-control">
+                   <input name="localidad" id="name" type="text" class="form-control">
                </div>
                <button type="submit" class="btn btn-primary">Guardar Nueva Localidad</button>
                <a class="btn btn-sm btn-danger" href="{{route('localidades.index')}}">Cancelar</a>

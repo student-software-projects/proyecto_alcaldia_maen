@@ -26,7 +26,7 @@
                   @foreach($localidad as $localidad)
                   <tr>
                       <td>{{$localidad->id}}</td>
-                      <td>{{$localidad->Localidad}}</td>
+                      <td>{{$localidad->localidad}}</td>s
                       <td>{{$localidad->created_at}}</td>
                       <td>
                           <form action="{{ route( 'localidades.destroy',$localidad->id)}}" method="post">
