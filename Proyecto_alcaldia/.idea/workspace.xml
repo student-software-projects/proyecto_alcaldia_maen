@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4e8a4b5-543b-47ff-9fdd-71fc4c1b03d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/localidades/LocalidadesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/localidades/LocalidadesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Localidad.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Localidad.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/localidades/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/localidades/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/localidades/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/localidades/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/localidades/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/localidades/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,6 +154,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/CoolAdmin-master" />
@@ -181,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606614621560</updated>
-      <workItem from="1606614625184" duration="5496000" />
+      <workItem from="1606614625184" duration="8088000" />
     </task>
     <servers />
   </component>

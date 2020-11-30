@@ -11,7 +11,5 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .postCss('resources/css/app.css', 'public/css', [
-        //
-    ]);
+mix.styles(['resources/css/app.css','resources/css/bootstrap-datetimepicker.min.css','resources/css/font-face.css','resources/css/theme.css'], 'public/css/app.css')
+    .scripts([ 'resources/js/app.js','resources/js/bootstrap.js','resources/js/bootstrap-datetimepicker.js','resources/js/main.js','resources/js/moment.js'],'public/js/app.js')
